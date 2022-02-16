@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Beccabooks
+description: Un blog dedicado a reseñas y recomendaciones de libros
+keywords: libros, reseñas, novedades
+author: Rebeca Zacarias
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
