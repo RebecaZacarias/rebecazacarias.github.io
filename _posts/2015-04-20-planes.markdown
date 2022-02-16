@@ -1,20 +1,20 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "Como Frank Herbert cambio la ciencia ficcion"
+subtitle: "Reseña de Dune"
+author: "Rebeca Zacarias"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2021-02-16 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### La ciencia ficcion clasica
+El genero de la ciencia ficcion es de los generos mas complejos de entender y comprender en diferentes medios desde la litearatura hasta en el cine, hay obras maestras tanto actuales como clasicas que nos ha permitido tener una vision adelantada a su epoca. El sci-fi clasico es de los mas complejos debido al grande auge de autores, libros y de visiones distintas sobre el futuro, mezclando elementos como politica, religion y accion. El genero surgio desde Verne teiendo una vision sobre el futur de las maquinas comunes como las naves espaciales, hasta llegar en la decada de los 60's en donde la ciencia ficcion nos llevaba a explorar nuevos lugares y vivir aventuras. El genero se estanco en estos elementos, nofue hasta que llego una persona con un libro publicado en una revista de autos llamado Frank Herbert.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### Dune reseña.
+La primera vez que lei Dune pense lo increible que era no solo por la forma en la que los personajes se ganaron mi corazon, pero el elemento crucial de este libro es la ambientacion y los elementos que Herbert uso para lograr crear un libro que revoluciono un genero dando a pie libros y autores que nos dieron una vision sobre el futuro.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+La trama politica de Dune es una de las partes mas importantes al explicarnos de una manera una gran familia dividida en casa entre las que Paul nuestro protagonista pertence a la Atreides, cabe destacar que la forma en la que el autor te hace sentir la desesperacion al conocer uno como lector que esta sucediendo y los movimientos por querer llegar al poder. Otro punto es las castas y la forma en la que funciona la concepcion de las personas en un futuro por un imperio que busca la estabilidad. 
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Arrakis es fascinante principalmente por el trabajo que hizo Herbert por explicar las Dunas, me sorprendio leer sobre personas que se han adaptado a esta condicion de vida y como esta estructurado, sus creencias y sus tradiciones esperando al Mesias. Destaco la creacion religiosa, el genero del ciencia ficcion tiene una forma unica de presentarnos un mundo lleno de personas y creencias que se salen totalmente de lo que conocemos en nuestra realidad. 
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+En resumen es un libro que los elementos politicos y religiosos lo hacen destacable sobre los libros de sci-fi que solian salir por estas epocas, la preocupacion ecologica de Herbert le da un plus y el famoso gusano (hacedor) es de mis cosas favoritos del libro. Finalmente la trama llena de accion y suspenso hace de este libro complejo por la cantidad de palabras futuristas, pero disfrutable una vez avanzas en el. Finalmente la pelicula dirigda por Denis es una joya considero que el guion esta muy bien adaptando mejorando ciertos puntos flojos del libro, la duracion de la pelicula apenas logra abarcar la primera mitad del libro. Estoy ansiosa por que sea 2023 porque el desenlace final de este libro llegue al cine.
